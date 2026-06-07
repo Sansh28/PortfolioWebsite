@@ -25,10 +25,6 @@ function getOutcome(project: ProjectCardData) {
     return "Built an end-to-end machine learning workflow to surface patterns in unstructured communication data.";
   }
 
-  if (project.title === "SalezShark Website Development") {
-    return "Contributed to a production marketing site by improving responsive front-end behavior and polishing user-facing interactions.";
-  }
-
   return "Built a technical project that blends product thinking, systems discipline, and visible user value.";
 }
 
@@ -123,7 +119,7 @@ export function Projects() {
         !featuredKeys.includes(normalizeProjectName(repository.name))
     )
     .slice(0, 6)
-      .map((repository) => ({
+    .map((repository) => ({
       title: repository.name,
       description:
         repository.description ||

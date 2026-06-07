@@ -257,7 +257,7 @@ export const portfolioData: PortfolioData = {
     }
   ],
   projectsIntro:
-    "Featured work blends AI product development, backend systems, gameplay architecture, and applied machine learning. The section also pulls additional repositories from GitHub through the included server-side API proxy.",
+    "Featured work spotlights the three resume projects you asked to highlight: Savant, Polymorphia Strategy Engine, and Email Classification System. Everything else is pulled live from GitHub through the included server-side API proxy.",
   projects: {
     featured: [
       {
@@ -329,28 +329,6 @@ export const portfolioData: PortfolioData = {
         screenshot: null,
         language: "Python",
         note: "The supplied resume included the project summary but not a public source repository or live deployment."
-      },
-      {
-        title: "SalezShark Website Development",
-        repositoryName: null,
-        description:
-          "Frontend contribution to a marketing platform with responsive UX improvements across React and Angular surfaces.",
-        longDescription:
-          "Contributed to front-end development of the SalezShark marketing platform during a software development internship. Worked across HTML, CSS, JavaScript, React.js, and Angular to improve the user experience and implement responsive web features.",
-        tech: [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "React",
-          "Angular",
-          "Responsive UI"
-        ],
-        topics: ["Frontend", "Responsive Design", "UI Development", "Marketing Platform"],
-        githubUrl: null,
-        liveUrl: null,
-        screenshot: null,
-        language: "JavaScript",
-        note: "Included as an optional project from the supplied content, with no public repo or live deployment provided."
       }
     ]
   },
