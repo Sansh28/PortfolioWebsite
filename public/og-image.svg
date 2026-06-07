@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#111317" />
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="#1A1F26" stroke="#2D3542" />
+  <path d="M0 0H1200V630H0V0Z" fill="url(#paint0_radial_1_2)" fill-opacity="0.65" />
+  <path d="M80 120H1120" stroke="#2D3542" stroke-width="2" />
+  <path d="M80 510H1120" stroke="#2D3542" stroke-width="2" />
+  <circle cx="122" cy="78" r="8" fill="#FF8A5B" />
+  <circle cx="150" cy="78" r="8" fill="#FFD166" />
+  <circle cx="178" cy="78" r="8" fill="#FFE6D6" />
+  <text x="88" y="190" fill="#FF8A5B" font-family="JetBrains Mono, monospace" font-size="20" letter-spacing="5.6">// SANSH GOEL</text>
+  <text x="88" y="292" fill="#F7F1E8" font-family="Space Grotesk, sans-serif" font-size="74" font-weight="700">Software Engineer</text>
+  <text x="88" y="362" fill="#A2ADBB" font-family="JetBrains Mono, monospace" font-size="28">AI-native products. Cloud systems. Precision frontend and backend execution.</text>
+  <rect x="88" y="428" width="300" height="58" rx="14" fill="#FF8A5B" fill-opacity="0.1" stroke="#FF8A5B" />
+  <text x="116" y="464" fill="#FF8A5B" font-family="JetBrains Mono, monospace" font-size="22">sanshgoel.dev</text>
+  <defs>
+    <radialGradient id="paint0_radial_1_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1008 126) rotate(138.278) scale(633.313 939.993)">
+      <stop stop-color="#FFD166" stop-opacity="0.22" />
+      <stop offset="0.421875" stop-color="#FF8A5B" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#111317" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</svg>
