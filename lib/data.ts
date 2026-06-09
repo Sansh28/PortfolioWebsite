@@ -139,7 +139,7 @@ export const portfolioData: PortfolioData = {
   email: "goelsansh28@gmail.com",
   phone: "303-332-6826",
   headline:
-    "Software Engineer | AI Enthusiast | Computer Science Graduate from University of Colorado Boulder",
+    "Software Engineer | AI Systems Builder | CS Graduate from CU Boulder",
   subheadline:
     "I build with TypeScript, Python, Go, React, Next.js, and cloud-native infrastructure to turn ambitious ideas into reliable, real-world software.",
   hero: {
@@ -150,7 +150,7 @@ export const portfolioData: PortfolioData = {
       "Cloud Architect",
       "Open Source Contributor"
     ],
-    bio: "I’m Sansh Goel, a software engineer passionate about building intelligent, scalable, and impactful technology solutions. I recently graduated from the University of Colorado Boulder with a Bachelor’s degree in Computer Science. Through internships, hackathons, and academic projects, I’ve gained experience in full-stack development, machine learning, cloud technologies, data analytics, and software engineering."
+    bio: "I’m a software engineer who builds intelligent, scalable systems where product quality and engineering rigor both matter. I recently graduated from CU Boulder and specialize in full-stack AI applications, data pipelines, and cloud infrastructure."
   },
   about: {
     summary:
@@ -257,7 +257,7 @@ export const portfolioData: PortfolioData = {
     }
   ],
   projectsIntro:
-    "Featured work spotlights the three resume projects you asked to highlight: Savant, Polymorphia Strategy Engine, and Email Classification System. Everything else is pulled live from GitHub through the included server-side API proxy.",
+    "A selection of what I've built — from AI reasoning platforms to strategy engines. Additional open-source work syncs live from GitHub below.",
   projects: {
     featured: [
       {
@@ -283,7 +283,7 @@ export const portfolioData: PortfolioData = {
         liveUrl: null,
         screenshot: null,
         language: "TypeScript",
-        note: "Public repository available. Live deployment was not listed in the supplied materials."
+        note: "Winner of the MLH MongoDB Track at HackCU."
       },
       {
         title: "Polymorphia Strategy Engine",
@@ -305,7 +305,7 @@ export const portfolioData: PortfolioData = {
         liveUrl: null,
         screenshot: null,
         language: "Java",
-        note: "This project was summarized in the provided materials without a public repo or live deployment."
+        note: "Built as a comprehensive demonstration of object-oriented game mechanics and architectural design patterns."
       },
       {
         title: "Email Classification System",
@@ -328,7 +328,7 @@ export const portfolioData: PortfolioData = {
         liveUrl: null,
         screenshot: null,
         language: "Python",
-        note: "The supplied resume included the project summary but not a public source repository or live deployment."
+        note: "An unsupervised approach to surfacing latent communication patterns without labeled training data."
       }
     ]
   },
@@ -432,7 +432,7 @@ export const portfolioData: PortfolioData = {
   site: {
     url: siteUrl,
     canonicalUrl: siteUrl,
-    title: "Sansh Goel | Software Engineer | AI Enthusiast",
+    title: "Sansh Goel | Software Engineer | AI Systems Builder",
     description:
       "Portfolio website for Sansh Goel, a software engineer and Computer Science graduate building AI products, full-stack applications, and cloud-scale systems.",
     ogImage: `${siteUrl}/og-image.png`,

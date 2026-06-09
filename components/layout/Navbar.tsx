@@ -90,7 +90,6 @@ export function Navbar() {
               ? "border-bg-border/90 bg-bg-surface/92 backdrop-blur-xl"
               : "border-bg-border/60 bg-bg-void/50 backdrop-blur-md"
           }`}
-          style={{ borderRadius: "1.15rem" }}
         >
           <a
             href="/"
